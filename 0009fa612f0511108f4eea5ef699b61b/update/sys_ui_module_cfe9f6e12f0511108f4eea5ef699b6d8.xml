@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Wish Item">4fe9f6e12f0511108f4eea5ef699b6d6</application>
+        <filter/>
+        <name>Wish Items</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_857213_wish_list.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-01 14:20:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cfe9f6e12f0511108f4eea5ef699b6d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Wish Items</sys_name>
+        <sys_package display_value="Wish List" source="x_857213_wish_list">0009fa612f0511108f4eea5ef699b61b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">0009fa612f0511108f4eea5ef699b61b</sys_scope>
+        <sys_update_name>sys_ui_module_cfe9f6e12f0511108f4eea5ef699b6d8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-01 14:20:13</sys_updated_on>
+        <table>x_857213_wish_list_wish_item</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
